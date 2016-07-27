@@ -1,0 +1,97 @@
+/* Here goes your CSS */
+body {
+  background-color: #F6F6F6;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #A7CDCC;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+div {
+  display: block;
+}
+
+.container {
+    width: 600px;
+    margin: 30px auto;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.text-center {
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #004A55;
+  font-size: 22px;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 1.17em;
+  font-weight: bold;
+}
+
+a {
+  color: #004A55;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F87D09;
+  text-decoration: none;
+}
+
+#portrait {
+  width: 100px ;
+  height: 100px ;
+  border-radius: 50px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.poster  {
+  width: 150px ;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 20px;
+}
+
+.list-inline li i {
+  font-size: 25px;
+}
+
+.btn-blue {
+  background-color: #004A55;
+  color: #FFFFFF;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.btn-blue:hover{
+  background-color: #F87D09;
+  color: #FFFFFF;
+}
+
+table {
+  border-spacing: 50px;
+ border-collapse: separate;
+}
