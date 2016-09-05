@@ -63,9 +63,11 @@ a:hover {
   border-radius: 50%;
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
 }
-
-.poster  {
-  width: 150px ;
+.imageintd {
+  vertical-align: top;
+}
+.site  {
+  width: 200px ;
 }
 
 .list-inline li {
